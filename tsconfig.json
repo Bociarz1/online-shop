@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2015", // Lub nowsza wersja, np. ES2017, ES2020
+    "lib": ["dom", "es2015"], // Lub nowsza wersja
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react"
+  }
+}

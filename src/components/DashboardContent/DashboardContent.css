@@ -1,0 +1,10 @@
+.appWrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+}
+
+.columnsWrapper {
+  display: flex;
+  height: calc(100vh - 100px);
+}
